@@ -173,10 +173,6 @@ Nếu bạn muốn đóng góp cho dự án này:
 - GitHub: [@QuyDatSadBoy](https://github.com/QuyDatSadBoy)
 - Repository: [Python_Oop_and_Pakage](https://github.com/QuyDatSadBoy/Python_Oop_and_Pakage)
 
-## 📄 License
-
-Dự án này được phân phối dưới MIT License. Xem file `LICENSE` để biết thêm chi tiết.
-
 ---
 
 ⭐ Nếu repository này hữu ích, hãy give một star nhé! ⭐
